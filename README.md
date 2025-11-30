@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://twitter.com/shrutiypatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrutiypatil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shrutiypatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrutiypatil" height="30" width="40" /></a>
-<a href="https://instagram.com/shrutiympatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrutiympatil" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shrutiypatil2018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrutiypatil2018" height="30" width="40" /></a>
 <a href="https://discord.gg/3655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3655" height="30" width="40" /></a>
 </p>
